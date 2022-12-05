@@ -1,1 +1,1 @@
-# adventofcode2022
+# Trying out Advent of Code 2022.
