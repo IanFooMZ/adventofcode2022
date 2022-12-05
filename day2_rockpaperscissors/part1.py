@@ -31,10 +31,6 @@ with open(INPUT_FILE) as file:
         
         round = line.rstrip().split(' ')
         rounds.append(calc_score(round))
-            # except Exception as Ex:
-            #     print(f'At line {line_counter} of the input file:')
-            #     print(type(Ex))     # the exception instance
-            #     print(Ex.args)      # arguments stored in .args]
 
 # # Sum each round's score
 total_scores = []
